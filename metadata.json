@@ -1,0 +1,6 @@
+{
+  "name": "Adnan's Birthday Experience",
+  "description": "A cinematic, interactive midnight birthday celebration crafted specially for Adnan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
