@@ -44,7 +44,7 @@ export const INoticeSection: React.FC<INoticeSectionProps> = ({
     {
       num: '01',
       title: 'YOUR AMBITION',
-      text: "I notice your ambition — the things you're working toward, the dreams you carry, and the person you're trying to become.",
+      text: "I notice your ambition  the things you're working toward, the dreams you carry, and the person you're trying to become.",
       type: 'ambition',
     },
     {
